@@ -2,5 +2,6 @@
     "name": "whyte624/unifaun-wsdl",
     "type": "library",
     "description": "Unifaun WSDL php classes",
-    "keywords": ["unifaun","wsdl","api","memnon"]
+    "keywords": ["unifaun","wsdl","api","memnon"],
+    "minimum-stability": "stable"
 }
