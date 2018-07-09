@@ -3,5 +3,8 @@
     "type": "library",
     "description": "Unifaun WSDL php classes",
     "keywords": ["unifaun","wsdl","api","memnon"],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": { "UnifaunWsdl\\": "src/" }
+    },
 }
